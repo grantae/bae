@@ -1,3 +1,6 @@
 [submodule "external/blob"]
 	path = external/blob
 	url = https://github.com/grantae/blob.git
+[submodule "external/cryptopp"]
+	path = external/cryptopp
+	url = https://github.com/weidai11/cryptopp.git
